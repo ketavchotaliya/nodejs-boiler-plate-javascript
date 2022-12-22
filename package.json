@@ -15,7 +15,7 @@
     "express-fileupload": "^1.1.2-alpha.1",
     "express-validator": "^5.3.1",
     "fs": "0.0.1-security",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "mysql": "^2.16.0",
     "util": "^0.11.1"
   },
